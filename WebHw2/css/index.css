@@ -1,0 +1,97 @@
+#webgl{
+
+    left: 200px;
+    top: 100px;
+    background: #ccc;
+
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+
+
+/*
+    border-style: dotted;
+    border-color: aqua;
+*/
+
+
+}
+
+#playbtn {
+    height :20px;
+    width: 20px;
+    position: fixed;
+    top: 20px;
+    left: 650px;
+    display: none;
+}
+
+#modebtn {
+    height :30px;
+    width: 30px;
+    position: fixed;
+    top: 50px;
+    left: 20px;
+}
+
+#gameinfo {
+    color: #9c95ef;
+    font-family: Andalus;
+    font-size: 30px;
+    position: fixed;
+    top:50px;
+    right: 20px;
+}
+
+#playername {
+    height: 30px;
+    width: 160px;
+    border-color: #dc0010;
+    font-family: Andalus;
+    font-size: 20px;
+}
+
+#roomid {
+    height:30px;
+    width: 200px;
+    border-color: #dc0010;
+    font-family: Andalus;
+    font-size: 20px;
+    display: none;
+}
+#playerinput {
+    font-family: Andalus;
+    position: fixed;
+    top:190px;
+    left:20px;
+    display: none;
+}
+#roominfo {
+    color: #dc0010;
+    font-family: Andalus;
+    font-size: 30px;
+    position: fixed;
+    top:250px;
+    left:20px;
+    display: none;
+}
+
+#scorebest {
+    color: #9c95ef;
+    font-family: Andalus;
+    font-size: 50px;
+    position: fixed;
+    top:70px;
+    right: 50px;
+
+}
+
+#scorenow {
+    color: #9c95ef;
+    font-family: Andalus;
+    font-size: 50px;
+    position: fixed;
+    top:300px;
+    right: 20px;
+
+}
